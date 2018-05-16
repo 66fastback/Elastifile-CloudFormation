@@ -19,9 +19,11 @@ Parameters:
 Mappings:
   AMIs:
     us-east-1:
-      Name: ami-92ec41ed
+      Name: ami-9ae454e5
     us-west-1:
-      Name: ami-596e0a21
+      Name: ami-cecad3ae
+    us-west-2:
+      Name: ami-2a761d52
 Resources:
   ECFSSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
