@@ -21,7 +21,7 @@ Mappings:
     us-east-1:
       Name: ami-9ae454e5
     us-west-1:
-      Name: ami-cecad3ae
+      Name: ami-027c2d7a
     us-west-2:
       Name: ami-2a761d52
 Resources:
